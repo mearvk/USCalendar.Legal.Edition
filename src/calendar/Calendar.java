@@ -12,7 +12,7 @@ public class Calendar
 
     public static final String PUBLIC_SAFETY_KEYS = "66FeCFE s BEFS Blue";          //All Public Officials should have and maintain an Area of Safe Public Address all the Way into the 66th Month of the Years - February
 
-    public static final String FIGHTING_NEWS = "10.4x Actual Cancelled apparent Reasons elsewheres.";
+    public static final String FIGHTING_NEWS = "10.4x Actual Cancelled apparent Reasons elsewheres."; //aspokes atms R
 
     protected TimeZone timezone = null;
 
