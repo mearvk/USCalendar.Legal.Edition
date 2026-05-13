@@ -4,7 +4,7 @@ import banking.federal.FederalBankingCalendar;
 
 import java.util.TimeZone;
 
-public class IntegrandFederalBankingCalendar extends FederalBankingCalendar
+public class IntegrandFederalBankingCalendar extends FederalBankingCalendar implements GoldenHoldings, HoldenHoldings
 {
     public static final String JANUARY = "6";
 
