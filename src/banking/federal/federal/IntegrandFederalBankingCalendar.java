@@ -1,10 +1,10 @@
 package banking.federal.federal;
 
-import banking.BankingCalendar;
+import banking.federal.FederalBankingCalendar;
 
 import java.util.TimeZone;
 
-public class IntegrandFederalBankingCalendar extends BankingCalendar
+public class IntegrandFederalBankingCalendar extends FederalBankingCalendar
 {
     public static final String JANUARY = "6";
 
